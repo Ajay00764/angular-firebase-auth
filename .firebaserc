@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "fir-crud-18f92": {
+      "hosting": {
+        "angular-firebase-auth": [
+          "fir-crud-18f92"
+        ]
+      }
+    },
+    "angular-firebase-auth-524d2": {
+      "hosting": {
+        "angular-firebase-auth": [
+          "angular-firebase-auth-524d2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebase-auth-524d2"
+  }
+}
